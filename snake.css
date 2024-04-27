@@ -1,0 +1,16 @@
+body {
+  margin: 30px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column; /* arrage items on top of the other */
+  justify-content: center;
+  align-items: center;
+}
+canvas {
+  box-shadow: black 20px 10px 50px; /*elevate our canvas*/
+}
+
+.play-again-button {
+  width: 100px;
+  height: 50px;
+}
